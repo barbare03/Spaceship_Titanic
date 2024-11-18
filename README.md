@@ -12,4 +12,4 @@ sklearn
 If you are running this on Google Colab, make sure to mount Google Drive to access your datasets and save your submission file.
 
 # Dataset
-The data used is from the Kaggle Titanic - Machine Learning from Disaster competition(https://www.kaggle.com/competitions/titanic/overview). Place the train.csv and test.csv files in your Google Drive, under My Drive/Colab Notebooks/.
+The data used is from the Kaggle Titanic - Machine Learning from Disaster competition(https://www.kaggle.com/competitions/spaceship-titanic/overview). Place the train.csv and test.csv files in your Google Drive, under My Drive/Colab Notebooks/.
